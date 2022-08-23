@@ -1,0 +1,22 @@
+Colors:
+{
+colors on Logo
+white- #fcfefd
+green-#16924a
+black - #000000
+greentTintHigh-#0e1d14
+greentTintLow-#a1c2b0
+greenTintMedium-#6cb189
+}
+
+Toolbar-#32C841
+button-#32C841
+chat-boc: rgba(140, 192, 87, 0.2);
+FAB-btn: #0DB63C
+
+Fonts:
+font-family: 'Inter';
+font-family: 'Roboto';
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+</style>
